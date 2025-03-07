@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# FILES
+data_clean.csv
+MLA_100k.jsonlines
